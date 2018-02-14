@@ -1,0 +1,5 @@
+The size of the file is too big, so the dataset can be downloaded from the following link :-
+
+'https://www.superdatascience.com/machine-learning/'
+
+Just scroll down to Part 8.Deep learning and click on Convolution Neural Network.zip. Your zip file will be downloaded and the dataset is pretty clear in itself :)
